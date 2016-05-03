@@ -29,10 +29,10 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str = "a|bb|ccc|ddd";
+		String str = "a|bb|ccc|ddd|eee|fff";
 
 		System.out.println(getStringOf(str, 4));
-
+		// https://github.com/gsalim/TestRepository.git
 		System.exit(0);
 	}
 }
