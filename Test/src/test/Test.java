@@ -29,7 +29,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str = "a|bb|ccc|ddd|eee|fff|";
+		String str = "a|bb|ccc|ddd|eee|fff|GG";
 
 		System.out.println(getStringOf(str, 4));
 		// https://github.com/gsalim/TestRepository.git
